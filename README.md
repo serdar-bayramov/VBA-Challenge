@@ -4,5 +4,6 @@ Analysis of stock market data
 * Then we highlight the positive values in green colour while negative values are highlighted in red.
 * The file also calculates the value and indicates the name of ticker with minimum and maximum percentage changes
 * The file also calculates the value and indicates the name of ticker with maximum total stock volume
+* Note - For some reason, the macro has to be ran twice in order to calculate all of the values across worksheets.
   
 
